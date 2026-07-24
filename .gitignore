@@ -1,0 +1,21 @@
+# Entorns virtuals
+venv/
+env/
+.env
+
+# Dades i Models
+data/raw/*
+data/processed/*
+models/*
+outputs/*
+figures/*
+
+# Excepcions per mantenir les carpetes vives al repo
+!data/README.md
+!.gitkeep
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
