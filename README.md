@@ -9,7 +9,7 @@ The application includes:
 - Interactive Gradio web application
 ## Demo
 
-![Application](images/Captura.png)
+![Application](images/Captura.PNG)
 
 ## Project Overview
 
