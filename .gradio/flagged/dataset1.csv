@@ -1,0 +1,2 @@
+image,output,timestamp
+.gradio\flagged\image\91c46d47893631704cfe\image(13).jpg,"{""label"": ""pituitary_tumor"", ""confidences"": [{""label"": ""pituitary_tumor"", ""confidence"": 0.9997304081916809}, {""label"": ""meningioma_tumor"", ""confidence"": 0.00015824465663172305}, {""label"": ""no_tumor"", ""confidence"": 6.164160731714219e-05}, {""label"": ""glioma_tumor"", ""confidence"": 4.9623657105257735e-05}]}",2026-07-25 14:17:57.995791

@@ -1,21 +1,48 @@
-# Entorns virtuals
-venv/
-env/
-.env
+# Python
 
-# Dades i Models
-data/raw/*
-data/processed/*
-models/*
-outputs/*
-figures/*
-
-# Excepcions per mantenir les carpetes vives al repo
-!data/README.md
-!.gitkeep
-
-# Python caches
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+
+# VSCode
+
+.vscode/
+
+
+# Jupyter
+
 .ipynb_checkpoints/
+
+# Logs
+
+*.log
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Cache
+
+.cache/
+.pytest_cache/
